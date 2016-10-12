@@ -1,5 +1,5 @@
-{"episodes": 
 {
+  "ep1": {
 "id": 10897,
 "url": "http://www.tvmaze.com/episodes/10897/silicon-valley-1x01-minimum-viable-product",
 "name": "Minimum Viable Product",
@@ -20,7 +20,7 @@
 }
 }
 },
-{
+  "ep2": {
 "id": 10898,
 "url": "http://www.tvmaze.com/episodes/10898/silicon-valley-1x02-the-cap-table",
 "name": "The Cap Table",
@@ -41,7 +41,7 @@
 }
 }
 },
-{
+  "ep3":{
 "id": 10899,
 "url": "http://www.tvmaze.com/episodes/10899/silicon-valley-1x03-articles-of-incorporation",
 "name": "Articles of Incorporation",
@@ -62,7 +62,7 @@
 }
 }
 },
-{
+  "ep4":{
 "id": 10900,
 "url": "http://www.tvmaze.com/episodes/10900/silicon-valley-1x04-fiduciary-duties",
 "name": "Fiduciary Duties",
@@ -83,7 +83,7 @@
 }
 }
 },
-{
+  "ep5":{
 "id": 10901,
 "url": "http://www.tvmaze.com/episodes/10901/silicon-valley-1x05-signaling-risk",
 "name": "Signaling Risk",
@@ -104,7 +104,7 @@
 }
 }
 },
-{
+  "ep6":{
 "id": 10902,
 "url": "http://www.tvmaze.com/episodes/10902/silicon-valley-1x06-third-party-insourcing",
 "name": "Third Party Insourcing",
@@ -125,7 +125,7 @@
 }
 }
 },
-{
+  "ep7":{
 "id": 10903,
 "url": "http://www.tvmaze.com/episodes/10903/silicon-valley-1x07-proof-of-concept",
 "name": "Proof of Concept",
@@ -146,7 +146,7 @@
 }
 }
 },
-{
+  "ep8":{
 "id": 10904,
 "url": "http://www.tvmaze.com/episodes/10904/silicon-valley-1x08-optimal-tip-to-tip-efficiency",
 "name": "Optimal Tip-to-Tip Efficiency",
@@ -167,7 +167,7 @@
 }
 }
 },
-{
+  "ep9":{
 "id": 117409,
 "url": "http://www.tvmaze.com/episodes/117409/silicon-valley-2x01-sand-hill-shuffle",
 "name": "Sand Hill Shuffle",
@@ -188,7 +188,7 @@
 }
 }
 },
-{
+  "ep10":{
 "id": 142992,
 "url": "http://www.tvmaze.com/episodes/142992/silicon-valley-2x02-runaway-devaluation",
 "name": "Runaway Devaluation",
@@ -209,7 +209,7 @@
 }
 }
 },
-{
+  "ep11":{
 "id": 142993,
 "url": "http://www.tvmaze.com/episodes/142993/silicon-valley-2x03-bad-money",
 "name": "Bad Money",
@@ -230,7 +230,7 @@
 }
 }
 },
-{
+  "ep12":{
 "id": 142994,
 "url": "http://www.tvmaze.com/episodes/142994/silicon-valley-2x04-the-lady",
 "name": "The Lady",
@@ -251,7 +251,7 @@
 }
 }
 },
-{
+  "ep13":{
 "id": 153965,
 "url": "http://www.tvmaze.com/episodes/153965/silicon-valley-2x05-server-space",
 "name": "Server Space",
@@ -272,7 +272,7 @@
 }
 }
 },
-{
+  "ep14":{
 "id": 154580,
 "url": "http://www.tvmaze.com/episodes/154580/silicon-valley-2x06-homicide",
 "name": "Homicide",
@@ -293,7 +293,7 @@
 }
 }
 },
-{
+  "ep16":{
 "id": 155129,
 "url": "http://www.tvmaze.com/episodes/155129/silicon-valley-2x07-adult-content",
 "name": "Adult Content",
@@ -314,7 +314,7 @@
 }
 }
 },
-{
+  "ep17":{
 "id": 155130,
 "url": "http://www.tvmaze.com/episodes/155130/silicon-valley-2x08-white-hatblack-hat",
 "name": "White Hat/Black Hat",
@@ -335,7 +335,7 @@
 }
 }
 },
-{
+  "ep18":{
 "id": 155199,
 "url": "http://www.tvmaze.com/episodes/155199/silicon-valley-2x09-binding-arbitration",
 "name": "Binding Arbitration",
@@ -356,7 +356,7 @@
 }
 }
 },
-{
+  "ep19":{
 "id": 155200,
 "url": "http://www.tvmaze.com/episodes/155200/silicon-valley-2x10-two-days-of-the-condor",
 "name": "Two Days of The Condor",
@@ -377,7 +377,7 @@
 }
 }
 },
-{
+  "ep20":{
 "id": 560883,
 "url": "http://www.tvmaze.com/episodes/560883/silicon-valley-3x01-founder-friendly",
 "name": "Founder Friendly",
@@ -398,7 +398,7 @@
 }
 }
 },
-{
+  "ep21":{
 "id": 668661,
 "url": "http://www.tvmaze.com/episodes/668661/silicon-valley-3x02-two-in-the-box",
 "name": "Two in the Box",
@@ -419,7 +419,7 @@
 }
 }
 },
-{
+ "ep22":{
 "id": 668662,
 "url": "http://www.tvmaze.com/episodes/668662/silicon-valley-3x03-meinertzhagens-haversack",
 "name": "Meinertzhagen's Haversack",
@@ -440,7 +440,7 @@
 }
 }
 },
-{
+  "ep23":{
 "id": 670680,
 "url": "http://www.tvmaze.com/episodes/670680/silicon-valley-3x04-maleant-data-systems-solutions",
 "name": "Maleant Data Systems Solutions",
@@ -461,7 +461,7 @@
 }
 }
 },
-{
+  "ep24":{
 "id": 670682,
 "url": "http://www.tvmaze.com/episodes/670682/silicon-valley-3x05-the-empty-chair",
 "name": "The Empty Chair",
@@ -482,7 +482,7 @@
 }
 }
 },
-{
+  "ep25":{
 "id": 670681,
 "url": "http://www.tvmaze.com/episodes/670681/silicon-valley-3x06-bachmanity-insanity",
 "name": "Bachmanity Insanity",
@@ -503,7 +503,7 @@
 }
 }
 },
-{
+  "ep26":{
 "id": 717453,
 "url": "http://www.tvmaze.com/episodes/717453/silicon-valley-3x07-to-build-a-better-beta",
 "name": "To Build a Better Beta",
@@ -524,7 +524,7 @@
 }
 }
 },
-{
+  "ep27":{
 "id": 729570,
 "url": "http://www.tvmaze.com/episodes/729570/silicon-valley-3x08-bachmans-earnings-over-ride",
 "name": "Bachman's Earning's Over-ride",
@@ -545,7 +545,7 @@
 }
 }
 },
-{
+  "ep28":{
 "id": 729571,
 "url": "http://www.tvmaze.com/episodes/729571/silicon-valley-3x09-daily-active-users",
 "name": "Daily Active Users",
@@ -566,7 +566,7 @@
 }
 }
 },
-{
+  "ep29":{
 "id": 729572,
 "url": "http://www.tvmaze.com/episodes/729572/silicon-valley-3x10-the-uptick",
 "name": "The Uptick",
