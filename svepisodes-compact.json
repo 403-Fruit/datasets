@@ -1,1 +1,1 @@
-{ "ep1":"new invention", "ep2":"bad invention" }
+{ "episodes": [{"title":"new invention", "number":"1"}, {"title":"bad invention", "number":"2"}]}
